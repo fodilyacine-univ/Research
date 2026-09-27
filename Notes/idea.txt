@@ -1,0 +1,2 @@
+- multi node representation for a qubit in minor embedding, can it not overshadow the smaller valued solutions ?
+- can we not set the initial hamiltonian to something other than the transcerse field hamiltonian ? (maybe we can have iterative process that solves more and more complex target hamiltonians)

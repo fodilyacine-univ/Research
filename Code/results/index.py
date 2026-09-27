@@ -1,0 +1,3 @@
+from visualizer import compare_algorithm_to_baseline
+
+compare_algorithm_to_baseline("results/random_variables.json")
