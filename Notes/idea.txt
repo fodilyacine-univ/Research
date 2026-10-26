@@ -1,2 +1,8 @@
 - multi node representation for a qubit in minor embedding, can it not overshadow the smaller valued solutions ?
-- can we not set the initial hamiltonian to something other than the transcerse field hamiltonian ? (maybe we can have iterative process that solves more and more complex target hamiltonians)
+- can we not set the initial hamiltonian to something other than the transcerse field hamiltonian ? (maybe we can have iterative process that solves more and more complex target hamiltonians).
+- snapshot adiabatic quantum computing (interminent evolution instead of one continuous one)
+- partitioning graph nodes into sets maximizing the inter-set weights
+- iterative process where we augment the penality terms little by little.
+- for TSP maybe solve using subsets of convex cities
+- solving a problem that gives us information about a tsp (instead of directly solving the tsp)
+- add catalyst to the evolution so that it introduces computational bassis stops
